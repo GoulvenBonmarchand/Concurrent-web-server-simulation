@@ -6,7 +6,6 @@ import threading
 import time
 from typing import Iterable
 
-
 class ConcurrentWebServerSimulation:
     def __init__(self, max_threads: int) -> None:
         self.max_threads = max_threads
@@ -40,7 +39,7 @@ class ConcurrentWebServerSimulation:
 
     def enqueue_requests(self, requests: Iterable[str]) -> queue.PriorityQueue:
         # Stable ordering within the same priority using a monotonic counter.
-        prioritized = queue.PriorityQueue()
+        prioritized: queue.PriorityQueue[tuple[int, int, str]] = queue.PriorityQueue()
         counter = itertools.count()
         for request in requests:
             priority = self.request_priority(request)
