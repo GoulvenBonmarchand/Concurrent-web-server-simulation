@@ -1,0 +1,200 @@
+Upload file configs/projects/video_762.xlsx
+List files in folder uploads
+Revoke user julian
+Create user nathan
+Get size of file videos/file_286.json
+Convert file configs/file_233.tar.gz into tmp/file_162.tar.gz
+Rename file media/uploads/report_466.avi docs/audio_587.json
+Give write access rights of folder downloads to user zach
+Revoke user sophie
+Invalidate token cc0de0d9a9 for user isabelle
+Give read access rights of folder projects to user zach
+Revoke user laura
+Give read access rights of folder configs to user harry
+Delete file reports/file_109.avi
+Revoke user isabelle
+Invalidate token 6256491132 for user emma
+Give read access rights of folder tmp to user julian
+Revoke user isabelle
+Remove access rights of folder audio from user alice
+Get size of file videos/archives/study_423.avi
+Get access rights of user irene on file data/tmp/study_886.jpg
+Give write access rights of folder images to user alice
+Remove access rights of folder videos from user zach
+Give write access rights of folder configs to user david
+List files in folder audio
+Create user paul
+Invalidate token deade9ecca for user john
+Check token 4327210c40 of user quincy
+Revoke user emma
+Convert file docs/logs/image_278.zip into docs/projects/audio_560.json
+Delete file backup/videos/data_127.zip
+Get access rights of user lucas on file audio/audio_232.tar.gz
+Download file logs/data/audio_523.wav
+Invalidate token 0a04a93ccd for user harry
+Get size of file uploads/report_862.xml
+Download file docs/audio_891.tar.gz
+Create user elisabeth
+Get size of file media/archives/report_8.jpg
+Create user harry
+Give write access rights of folder videos to user victor
+Invalidate token ccf1aea41a for user alice
+Get access rights of user xavier on file images/configs/video_776.tar.gz
+Get access rights of user quincy on file reports/tmp/file_226.zip
+Delete file projects/image_910.zip
+Convert file archives/video_721.png into downloads/images/file_338.tar.gz
+Give read access rights of folder downloads to user henry
+Get access rights of user xavier on file uploads/configs/file_772.jpg
+Give write access rights of folder videos to user wendy
+Invalidate token bdb1ec964e for user maria
+List files in folder backup
+Upload file reports/audio_652.txt
+Give read access rights of folder logs to user nathan
+List files in folder tmp
+Give read access rights of folder logs to user kate
+Create user laura
+Create user yasmin
+Create user frank
+Upload file tmp/videos/video_581.json
+Check token 9ecec462ab of user john
+List files in folder data
+Invalidate token 3b4eaf072e for user charlie
+Get access rights of user kevin on file images/uploads/study_61.txt
+Download file reports/data/file_922.json
+Give read access rights of folder backup to user john
+Delete file backup/report_557.docx
+Get access rights of user thomas on file backup/report_566.txt
+Convert file tmp/downloads/report_106.avi into downloads/backup/image_672.docx
+Invalidate token 07d69bbab3 for user yasmin
+Invalidate token e5cb8ab0e5 for user alice
+Check token a4254748ea of user lucas
+Convert file tmp/report_551.avi into reports/videos/video_116.zip
+List files in folder archives
+Remove access rights of folder logs from user ursula
+List files in folder media
+Rename file downloads/image_247.xlsx images/data_107.jpg
+List files in folder logs
+Get access rights of user elisabeth on file backup/image_405.txt
+Remove access rights of folder media from user julian
+Rename file downloads/report_163.docx backup/tmp/video_746.tar.gz
+Get access rights of user bob on file logs/tmp/data_520.csv
+Delete file docs/image_164.xlsx
+Create user alice
+Get size of file audio/data_113.png
+Create user julian
+Get access rights of user lucas on file media/audio_767.wav
+List files in folder projects
+Download file videos/video_251.zip
+Get access rights of user julian on file docs/study_983.zip
+Revoke user thomas
+Give read access rights of folder downloads to user harry
+Download file configs/file_897.png
+Rename file uploads/backup/video_598.xml reports/media/report_647.csv
+List files in folder downloads
+Convert file tmp/image_316.xml into downloads/tmp/file_329.tar.gz
+Invalidate token efacffcf15 for user paul
+Check token dc47eb80a9 of user kevin
+Download file tmp/image_159.mp3
+Invalidate token 4c3c5911b4 for user yasmin
+Download file reports/data_677.docx
+List files in folder tmp
+Get access rights of user alice on file configs/videos/video_55.xml
+Give read access rights of folder media to user charlie
+Invalidate token efca0dbcf6 for user kate
+Invalidate token 5c4d18e7dd for user lucas
+Delete file tmp/media/data_182.avi
+Revoke user grace
+Download file uploads/configs/video_499.docx
+Invalidate token bcdd3da65f for user rachel
+Delete file archives/images/audio_607.csv
+Rename file audio/archives/report_979.wav projects/media/study_394.jpg
+Revoke user david
+Delete file media/tmp/data_432.json
+Invalidate token af32edfc6b for user alice
+Get access rights of user thomas on file tmp/configs/report_880.wav
+Get access rights of user grace on file reports/data_403.xlsx
+Create user charlie
+Get access rights of user nathan on file uploads/video_841.zip
+Get size of file uploads/downloads/audio_983.pdf
+Delete file images/data/image_309.txt
+Give read access rights of folder archives to user charlie
+Create user xavier
+Download file archives/file_826.xlsx
+Create user isabelle
+Check token 0fb0af984d of user victor
+Upload file tmp/report_580.png
+Check token 3cfe3eadba of user yasmin
+Revoke user quincy
+Remove access rights of folder configs from user yasmin
+List files in folder videos
+Delete file archives/audio/video_57.tar.gz
+Get access rights of user laura on file reports/media/file_593.json
+Remove access rights of folder uploads from user sophie
+Convert file data/report_985.wav into logs/downloads/audio_344.xml
+List files in folder tmp
+Create user lucas
+Download file media/backup/file_697.avi
+Rename file media/projects/file_47.xlsx tmp/image_227.tar.gz
+Convert file downloads/audio/video_615.txt into backup/projects/video_19.zip
+Convert file videos/videos/image_569.docx into media/media/image_402.csv
+Check token c7caa82ffa of user lucas
+Give read access rights of folder reports to user john
+Upload file reports/report_70.pdf
+Give read access rights of folder downloads to user kevin
+Give write access rights of folder downloads to user olivia
+Download file archives/tmp/file_79.avi
+Upload file reports/video_876.xml
+Give write access rights of folder downloads to user elisabeth
+Get size of file data/docs/report_248.docx
+Check token fa0ea8abc7 of user isabelle
+Download file images/image_96.txt
+Invalidate token afc48acbed for user bob
+Get size of file projects/archives/report_371.csv
+Get size of file configs/audio_964.xlsx
+Download file videos/backup/video_725.wav
+Download file tmp/data_85.zip
+Give write access rights of folder configs to user wendy
+Create user maria
+Upload file uploads/projects/file_669.tar.gz
+Check token 9d083b5af8 of user xavier
+Invalidate token 2a9a5c2c73 for user alice
+Check token ae12cfb1ff of user maria
+Upload file images/downloads/study_907.png
+Rename file reports/report_871.csv media/configs/file_94.docx
+Create user henry
+Revoke user kate
+Check token ef338f0945 of user xavier
+Revoke user paul
+Rename file configs/image_497.tar.gz logs/reports/file_446.zip
+Get access rights of user xavier on file backup/image_556.xml
+Give read access rights of folder media to user charlie
+Get size of file videos/data_826.xml
+Give write access rights of folder configs to user grace
+Upload file archives/data_352.txt
+Download file audio/data_402.zip
+Create user maria
+Create user henry
+Invalidate token 7ec91db93f for user wendy
+Create user quincy
+Get size of file logs/data_329.mp3
+Rename file projects/media/audio_978.txt archives/image_638.tar.gz
+Check token bcabe200cf of user david
+Get access rights of user laura on file data/image_978.txt
+Revoke user wendy
+Rename file docs/data_970.xml reports/image_72.xml
+Revoke user olivia
+Give read access rights of folder downloads to user wendy
+Get access rights of user rachel on file logs/report_300.wav
+Invalidate token c2bd0295dc for user ursula
+Check token fdef9af020 of user nathan
+Upload file backup/backup/audio_904.docx
+Check token ef4ae0eccd of user grace
+Check token 3734e1d9a0 of user sophie
+Check token 72c67cd4ca of user kevin
+Get access rights of user emma on file reports/file_410.tar.gz
+Get size of file reports/video_614.mp4
+Remove access rights of folder uploads from user frank
+Check token d0347b1e42 of user wendy
+List files in folder audio
+List files in folder projects
+Get size of file reports/backup/video_715.mp3
