@@ -10,7 +10,7 @@ requires-python = ">=3.13"
 dependencies = []
 
 [project.scripts]
-concurrent-web-server-simulation = "concurrent_web_server_simulation:main"
+launch = "concurrent_web_server_simulation.web:main"
 
 [build-system]
 requires = ["uv_build>=0.9.5,<0.10.0"]
